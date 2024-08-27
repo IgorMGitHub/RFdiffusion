@@ -1,4 +1,6 @@
-This the fork created for Constructor Academy learning course
+This is the fork created for Constructor Academy learning course
+1) wget and copy models to /mnt/shared/
+2) conda config --set channel_priority flexible
 
 
 # RF*diffusion*
