@@ -2,6 +2,7 @@
 rfdiffusion.egg-info
 
 models/
+outputs/
 schedules/
 
 examples/ppi_scaffolds
@@ -14,3 +15,8 @@ tests/reference_outputs/
 tests/target_folds
 tests/tim_barrel_scaffold
 tests/tests_*
+
+test_outputs/
+test_outputs_old/
+example_outputs/
+example_outputs_old/

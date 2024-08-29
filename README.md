@@ -1,6 +1,10 @@
 This is the fork created for Constructor Academy learning course
 1) wget and copy models to /mnt/shared/
 2) conda config --set channel_priority flexible
+3) conda install omegaconf
+4) conda install hydra-core
+5) conda install opt_einsum -c conda-forge
+
 
 
 # RF*diffusion*
